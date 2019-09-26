@@ -91,6 +91,8 @@ replaceFirst、replaceAll、replace区别、
 
 字符串池、常量池（运行时常量池、Class常量池）、intern
 
+init
+
 #### 熟悉Java中各种关键字
 
 transient、instanceof、volatile、synchronized、final、static、const 原理及用法。
